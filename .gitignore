@@ -1,6 +1,5 @@
 # Dependency directories
 node_modules/
-build/
 dist/
 coverage/
 
@@ -25,3 +24,22 @@ package-lock.json
 # Miscellaneous
 *.DS_Store
 .git/
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs and temporary files
+*.db
+instance/
+
+# Python cache and environment files
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Compiled assets and build output
+build/
+*.egg-info/
