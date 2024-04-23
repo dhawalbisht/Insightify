@@ -24,7 +24,7 @@ This project provides a web-based PDF summarizer application with two main featu
 
    Backend Setup (Flask)
    ```bash
-   git clone https://github.com/your-username/pdf-summarizer.git
+   https://github.com/dhawalbisht/Insightify.git
    cd backend
    pip install -r requirements.txt
    python app.py
